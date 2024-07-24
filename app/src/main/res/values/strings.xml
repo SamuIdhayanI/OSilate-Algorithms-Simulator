@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">OSilate</string>\
+    <string name="frames_prompt">Number of frames:</string>
+    <string name="references_prompt">References:</string>
+    <string name="simulate_button">Simulate</string>
+    <string name="hits">Hits: %d</string>
+    <string name="faults">Faults: %d</string>
+    <string name="visualization_header">Reference\tFrame 1\tFrame 2\tFrame 3\tFrame 4\tFrame 5</string>
+    <string-array name="items">
+        <item>FIFO</item>
+        <item>OPTIMAL</item>
+        <item>LRU</item>
+        <item>MRU</item>
+        <item>LFU</item>
+        <item>MFU</item>
+        <item>Second</item>
+        <item>En Second</item>
+    </string-array>
+    <string-array name="fullname">
+        <item>First In First Out</item>
+        <item>Optimal Page Replacement</item>
+        <item>Least Recently Used</item>
+        <item>Most Recently Used</item>
+        <item>Least Frequently Used</item>
+        <item>Most Frequently Used</item>
+        <item>Second Chance</item>
+        <item>Enhanced Second Chance</item>
+    </string-array>
+</resources>
