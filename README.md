@@ -28,3 +28,24 @@ OSilate addresses this issue by providing an interactive and practical approach 
     - MFU (Most Frequently Used)
     - Second Chance
     - Enhanced Second Chance
+ 
+### Interface Demo:
+
+#### Home Page:
+
+<img width="365" alt="Screenshot 2024-07-25 at 12 29 09 PM" src="https://github.com/user-attachments/assets/549fb53c-e902-4336-924c-caa38860a4cd">               <img width="367" alt="Screenshot 2024-07-25 at 12 29 40 PM" src="https://github.com/user-attachments/assets/2d647d8f-e8c5-41ef-aa6a-a196aaf3d2ea">
+
+#### Simulation Page:
+
+<img width="367" alt="Screenshot 2024-07-25 at 12 30 46 PM" src="https://github.com/user-attachments/assets/2954883c-e365-4723-a3b7-9d573419b61f">              <img width="365" alt="Screenshot 2024-07-25 at 12 31 36 PM" src="https://github.com/user-attachments/assets/afd40e4f-bdfc-4290-8cb1-3734f82b84ea">
+
+
+#### Descriptions Page:
+
+<img width="371" alt="Screenshot 2024-07-25 at 12 32 14 PM" src="https://github.com/user-attachments/assets/73f20342-5a5a-4f13-a375-cfed6131a696">
+
+
+### Real-World Examples for Each Algorithm:
+
+![Screenshot 2024-07-25 at 12 33 23 PM](https://github.com/user-attachments/assets/a2de9f0d-5a16-4e54-a792-97d8e9f2c1b6)
+
