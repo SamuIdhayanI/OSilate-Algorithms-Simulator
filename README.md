@@ -47,5 +47,5 @@ OSilate addresses this issue by providing an interactive and practical approach 
 
 ### Real-World Examples for Each Algorithm:
 
-![Screenshot 2024-07-25 at 12 33 23 PM](https://github.com/user-attachments/assets/a2de9f0d-5a16-4e54-a792-97d8e9f2c1b6)
+<img width="365" alt="Screenshot 2024-07-25 at 12 33 23 PM" src="https://github.com/user-attachments/assets/61d6f0ef-95c2-44a8-9ea8-a81890bda691">
 
